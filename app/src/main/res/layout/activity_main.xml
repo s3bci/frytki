@@ -10,9 +10,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Rejestracja"
+        android:text="Zarejestruj sie"
         android:textSize="50dp"
-        android:background="#080808"
+        android:background="#000800"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
